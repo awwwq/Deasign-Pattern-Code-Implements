@@ -2,6 +2,7 @@
 
 class FlyBehavior
 {
+    //Interface of FlyBehavior
 public:
     virtual void fly() = 0;
 };

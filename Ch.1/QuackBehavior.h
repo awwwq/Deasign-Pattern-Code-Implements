@@ -2,6 +2,7 @@
 
 class QuackBehavior
 {
+    //Interface of QuackBehavior
 public:
     virtual void quack() = 0;
 };
