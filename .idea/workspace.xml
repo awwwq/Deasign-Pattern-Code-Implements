@@ -23,6 +23,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1SvkRROgRhtJVrPi3Gf1EXK1vc0" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -92,6 +95,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -179,7 +183,7 @@
       <workItem from="1574440576833" duration="41000" />
       <workItem from="1574440619266" duration="1676000" />
       <workItem from="1574514807956" duration="790000" />
-      <workItem from="1574516559515" duration="367000" />
+      <workItem from="1574516559515" duration="588000" />
     </task>
     <servers />
   </component>
@@ -194,5 +198,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
