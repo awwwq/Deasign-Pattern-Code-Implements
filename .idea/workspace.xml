@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Cplus" targetName="Cplus" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="581510fe-bc6b-4642-8d70-a07f796f2120" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1SvkRROgRhtJVrPi3Gf1EXK1vc0" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralC/C++</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Type checksC/C++</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-release" />
+      <recent name="$PROJECT_DIR$/cmake-build-release/CMakeFiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplus" RUN_TARGET_NAME="Cplus" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cplus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplus" TARGET_NAME="Cplus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplus" RUN_TARGET_NAME="Cplus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.Cplus" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="581510fe-bc6b-4642-8d70-a07f796f2120" name="Default" comment="" />
+      <created>1517252725160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517252725160</updated>
+      <workItem from="1517252727843" duration="34000" />
+      <workItem from="1517290489588" duration="17193000" />
+      <workItem from="1517314693836" duration="7000" />
+      <workItem from="1517374682047" duration="186000" />
+      <workItem from="1517404048559" duration="6725000" />
+      <workItem from="1517471342947" duration="1924000" />
+      <workItem from="1517477244159" duration="5583000" />
+      <workItem from="1517503388257" duration="4723000" />
+      <workItem from="1517568945191" duration="3987000" />
+      <workItem from="1517583353338" duration="3361000" />
+      <workItem from="1517588567449" duration="121000" />
+      <workItem from="1517588769645" duration="1196000" />
+      <workItem from="1517637161559" duration="11266000" />
+      <workItem from="1517728262118" duration="121000" />
+      <workItem from="1517728563600" duration="117000" />
+      <workItem from="1518188897786" duration="397000" />
+      <workItem from="1518189795936" duration="209000" />
+      <workItem from="1518240715476" duration="832000" />
+      <workItem from="1518248884689" duration="12333000" />
+      <workItem from="1518351812451" duration="25874000" />
+      <workItem from="1518699966225" duration="7283000" />
+      <workItem from="1519545550516" duration="755000" />
+      <workItem from="1519891489600" duration="4323000" />
+      <workItem from="1533130847058" duration="526000" />
+      <workItem from="1572451453805" duration="61000" />
+      <workItem from="1572451531894" duration="162000" />
+      <workItem from="1572451695197" duration="243000" />
+      <workItem from="1572452004811" duration="24000" />
+      <workItem from="1572452030127" duration="172000" />
+      <workItem from="1572520219409" duration="1984000" />
+      <workItem from="1573573431558" duration="61000" />
+      <workItem from="1573627212260" duration="3000" />
+      <workItem from="1574440576833" duration="41000" />
+      <workItem from="1574440619266" duration="1676000" />
+      <workItem from="1574514807956" duration="790000" />
+      <workItem from="1574516559515" duration="367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

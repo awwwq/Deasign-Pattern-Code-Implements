@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Samsung_T5/learn/Cplus/Duck.cpp
+iostream
+-
+Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Duck.h
+
+/Volumes/Samsung_T5/learn/Cplus/Duck.h
+FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.h
+QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/QuackBehavior.h
+
+/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.cpp
+FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.h
+iostream
+-
+
+/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.h
+
+/Volumes/Samsung_T5/learn/Cplus/QuackBehavior.h
+
+/Volumes/Samsung_T5/learn/Cplus/main.cpp
+iostream
+-
+Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Duck.h
+

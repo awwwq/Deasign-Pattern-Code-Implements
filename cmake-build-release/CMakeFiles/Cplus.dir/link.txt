@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Cplus.dir/Duck.cpp.o CMakeFiles/Cplus.dir/FlyBehavior.cpp.o CMakeFiles/Cplus.dir/main.cpp.o CMakeFiles/Cplus.dir/QuackBehavior.cpp.o  -o Cplus 
