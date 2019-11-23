@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Volumes/Samsung_T5/learn/Cplus/Duck.cpp" "/Volumes/Samsung_T5/learn/Cplus/cmake-build-debug/CMakeFiles/Cplus.dir/Duck.cpp.o"
-  "/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.cpp" "/Volumes/Samsung_T5/learn/Cplus/cmake-build-debug/CMakeFiles/Cplus.dir/FlyBehavior.cpp.o"
-  "/Volumes/Samsung_T5/learn/Cplus/QuackBehavior.cpp" "/Volumes/Samsung_T5/learn/Cplus/cmake-build-debug/CMakeFiles/Cplus.dir/QuackBehavior.cpp.o"
-  "/Volumes/Samsung_T5/learn/Cplus/main.cpp" "/Volumes/Samsung_T5/learn/Cplus/cmake-build-debug/CMakeFiles/Cplus.dir/main.cpp.o"
+  "/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.cpp" "/Volumes/Samsung_T5/learn/Cplus/Ch.1/cmake-build-debug/CMakeFiles/Cplus.dir/Duck.cpp.o"
+  "/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.cpp" "/Volumes/Samsung_T5/learn/Cplus/Ch.1/cmake-build-debug/CMakeFiles/Cplus.dir/FlyBehavior.cpp.o"
+  "/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.cpp" "/Volumes/Samsung_T5/learn/Cplus/Ch.1/cmake-build-debug/CMakeFiles/Cplus.dir/QuackBehavior.cpp.o"
+  "/Volumes/Samsung_T5/learn/Cplus/Ch.1/main.cpp" "/Volumes/Samsung_T5/learn/Cplus/Ch.1/cmake-build-debug/CMakeFiles/Cplus.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -6,31 +6,37 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/Samsung_T5/learn/Cplus/Duck.cpp
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.cpp
 iostream
 -
 Duck.h
-/Volumes/Samsung_T5/learn/Cplus/Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.h
 
-/Volumes/Samsung_T5/learn/Cplus/Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.h
 FlyBehavior.h
-/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.h
 QuackBehavior.h
-/Volumes/Samsung_T5/learn/Cplus/QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.h
 
-/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.cpp
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.cpp
 FlyBehavior.h
-/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.h
 iostream
 -
 
-/Volumes/Samsung_T5/learn/Cplus/FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.h
 
-/Volumes/Samsung_T5/learn/Cplus/QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.cpp
+QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.h
+iostream
+-
 
-/Volumes/Samsung_T5/learn/Cplus/main.cpp
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.h
+
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/main.cpp
 iostream
 -
 Duck.h
-/Volumes/Samsung_T5/learn/Cplus/Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.h
 

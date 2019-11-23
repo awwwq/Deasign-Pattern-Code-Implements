@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="Cplus" targetName="Cplus" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -22,7 +20,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -122,21 +119,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.Build All">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplus" RUN_TARGET_NAME="Cplus" EXPLICIT_BUILD_TARGET_NAME="all">
+  <component name="RunManager">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Cplus" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cplus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplus" TARGET_NAME="Cplus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplus" RUN_TARGET_NAME="Cplus">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.Build All" />
-      <item itemvalue="CMake Application.Cplus" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -183,7 +171,7 @@
       <workItem from="1574440576833" duration="41000" />
       <workItem from="1574440619266" duration="1676000" />
       <workItem from="1574514807956" duration="790000" />
-      <workItem from="1574516559515" duration="588000" />
+      <workItem from="1574516559515" duration="774000" />
     </task>
     <servers />
   </component>
