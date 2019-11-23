@@ -15,6 +15,7 @@ public:
     void setFlyBehavior(FlyBehavior *fb);
     void setQuackBehavior(QuackBehavior *qb);
 };
+
 class MallardDuck : public Duck
 {
 public:
