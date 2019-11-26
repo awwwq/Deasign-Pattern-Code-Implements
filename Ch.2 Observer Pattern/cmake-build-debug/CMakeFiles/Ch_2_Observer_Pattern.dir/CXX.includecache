@@ -8,23 +8,11 @@
 
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.h
 
-/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.cpp
-Observer.h
-/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.h
-iostream
--
-
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.h
 DisplayElement.h
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.h
 Subject.h
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.h
-
-/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.cpp
-Subject.h
-/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.h
-iostream
--
 
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.h
 Observer.h

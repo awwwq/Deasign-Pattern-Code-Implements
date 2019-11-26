@@ -23,6 +23,11 @@ public:
 class HeatIndexDisplay : public Observer, public DisplayElement
 {
 private:
-    float temperature;
-    float
+    float heatIndex;
+    Subject *weatherData;
+    void computeHI(float t, float rh);
+public:
+    HeatIndexDisplay(Subject *weatherData);
+    void update(float temp, float humidity, float pressure);
+    void display();
 };
