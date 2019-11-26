@@ -57,9 +57,48 @@ include CMakeFiles/Ch_2_Observer_Pattern.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Ch_2_Observer_Pattern.dir/flags.make
 
+CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o: CMakeFiles/Ch_2_Observer_Pattern.dir/flags.make
+CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o: ../DisplayElement.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o -c "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.cpp"
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.cpp" > CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.i
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.cpp" -o CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.s
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o: CMakeFiles/Ch_2_Observer_Pattern.dir/flags.make
+CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o: ../Observer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o -c "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.cpp"
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.cpp" > CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.i
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.cpp" -o CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.s
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o: CMakeFiles/Ch_2_Observer_Pattern.dir/flags.make
+CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o: ../Subject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o -c "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.cpp"
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.cpp" > CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.i
+
+CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.cpp" -o CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.s
+
 CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o: CMakeFiles/Ch_2_Observer_Pattern.dir/flags.make
 CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o -c "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/main.cpp"
 
 CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.i: cmake_force
@@ -72,15 +111,21 @@ CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.s: cmake_force
 
 # Object files for target Ch_2_Observer_Pattern
 Ch_2_Observer_Pattern_OBJECTS = \
+"CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o" \
+"CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o" \
+"CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o" \
 "CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o"
 
 # External object files for target Ch_2_Observer_Pattern
 Ch_2_Observer_Pattern_EXTERNAL_OBJECTS =
 
+Ch_2_Observer_Pattern: CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o
+Ch_2_Observer_Pattern: CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o
+Ch_2_Observer_Pattern: CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o
 Ch_2_Observer_Pattern: CMakeFiles/Ch_2_Observer_Pattern.dir/main.cpp.o
 Ch_2_Observer_Pattern: CMakeFiles/Ch_2_Observer_Pattern.dir/build.make
 Ch_2_Observer_Pattern: CMakeFiles/Ch_2_Observer_Pattern.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Ch_2_Observer_Pattern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Ch_2_Observer_Pattern"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Ch_2_Observer_Pattern.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

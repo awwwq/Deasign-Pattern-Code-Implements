@@ -123,6 +123,87 @@ Ch_2_Observer_Pattern/fast:
 	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/build
 .PHONY : Ch_2_Observer_Pattern/fast
 
+DisplayElement.o: DisplayElement.cpp.o
+
+.PHONY : DisplayElement.o
+
+# target to build an object file
+DisplayElement.cpp.o:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o
+.PHONY : DisplayElement.cpp.o
+
+DisplayElement.i: DisplayElement.cpp.i
+
+.PHONY : DisplayElement.i
+
+# target to preprocess a source file
+DisplayElement.cpp.i:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.i
+.PHONY : DisplayElement.cpp.i
+
+DisplayElement.s: DisplayElement.cpp.s
+
+.PHONY : DisplayElement.s
+
+# target to generate assembly for a file
+DisplayElement.cpp.s:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.s
+.PHONY : DisplayElement.cpp.s
+
+Observer.o: Observer.cpp.o
+
+.PHONY : Observer.o
+
+# target to build an object file
+Observer.cpp.o:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o
+.PHONY : Observer.cpp.o
+
+Observer.i: Observer.cpp.i
+
+.PHONY : Observer.i
+
+# target to preprocess a source file
+Observer.cpp.i:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.i
+.PHONY : Observer.cpp.i
+
+Observer.s: Observer.cpp.s
+
+.PHONY : Observer.s
+
+# target to generate assembly for a file
+Observer.cpp.s:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.s
+.PHONY : Observer.cpp.s
+
+Subject.o: Subject.cpp.o
+
+.PHONY : Subject.o
+
+# target to build an object file
+Subject.cpp.o:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o
+.PHONY : Subject.cpp.o
+
+Subject.i: Subject.cpp.i
+
+.PHONY : Subject.i
+
+# target to preprocess a source file
+Subject.cpp.i:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.i
+.PHONY : Subject.cpp.i
+
+Subject.s: Subject.cpp.s
+
+.PHONY : Subject.s
+
+# target to generate assembly for a file
+Subject.cpp.s:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.s
+.PHONY : Subject.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Ch_2_Observer_Pattern"
+	@echo "... DisplayElement.o"
+	@echo "... DisplayElement.i"
+	@echo "... DisplayElement.s"
+	@echo "... Observer.o"
+	@echo "... Observer.i"
+	@echo "... Observer.s"
+	@echo "... Subject.o"
+	@echo "... Subject.i"
+	@echo "... Subject.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

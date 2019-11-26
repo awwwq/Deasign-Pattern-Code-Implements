@@ -1,5 +1,12 @@
-#include <iostrem>
+#include <iostream>
+#include "Subject.h"
+#include "Observer.h"
 
-int main(){
+int main()
+{
+    WeatherData *weatherData = new WeatherData();
+    CurrentConditionDisplay *cd = new CurrentConditionDisplay(weatherData);
+    weatherData->setMeasurements(80, 65, 30.4);
+
     return 0;
 }
