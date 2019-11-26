@@ -20,3 +20,9 @@ public:
     void update(float temp, float humidity, float pressure);
     void display();
 };
+class HeatIndexDisplay : public Observer, public DisplayElement
+{
+private:
+    float temperature;
+    float
+};
