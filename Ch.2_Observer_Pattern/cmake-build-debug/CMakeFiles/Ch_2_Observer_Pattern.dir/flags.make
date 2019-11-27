@@ -6,5 +6,5 @@ CXX_FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sd
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/." 
+CXX_INCLUDES = -I/Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/. 
 

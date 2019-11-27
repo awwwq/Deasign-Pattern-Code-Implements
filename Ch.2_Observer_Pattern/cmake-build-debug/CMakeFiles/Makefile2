@@ -44,10 +44,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern"
+CMAKE_SOURCE_DIR = /Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug"
+CMAKE_BINARY_DIR = /Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/Ch_2_Observer_Pattern.dir/all:
 	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/depend
 	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4,5,6 "Built target Ch_2_Observer_Pattern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target Ch_2_Observer_Pattern"
 .PHONY : CMakeFiles/Ch_2_Observer_Pattern.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ch_2_Observer_Pattern.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Ch_2_Observer_Pattern.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Ch_2_Observer_Pattern.dir/rule
 
 # Convenience name for target.

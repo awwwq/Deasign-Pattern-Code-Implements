@@ -6,25 +6,37 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.cpp
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/Duck.cpp
 iostream
 -
 Duck.h
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/Duck.h
 
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/Duck.h
 FlyBehavior.h
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/FlyBehavior.h
 QuackBehavior.h
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/QuackBehavior.h
 
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/FlyBehavior.cpp
+FlyBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/FlyBehavior.h
+iostream
+-
 
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/FlyBehavior.h
 
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/main.cpp
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/QuackBehavior.cpp
+QuackBehavior.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/QuackBehavior.h
+iostream
+-
+
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/QuackBehavior.h
+
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/main.cpp
 iostream
 -
 Duck.h
-/Volumes/Samsung_T5/learn/Cplus/Ch.1/Duck.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.1_Strategy_Pattern/Duck.h
 
