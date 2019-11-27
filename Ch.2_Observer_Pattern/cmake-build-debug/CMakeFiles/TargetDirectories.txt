@@ -1,3 +1,0 @@
-/Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/Samsung_T5/learn/Cplus/Ch.2_Observer_Pattern/cmake-build-debug/CMakeFiles/Ch_2_Observer_Pattern.dir
