@@ -13,4 +13,4 @@ add_executable(Ch_2_Observer_Pattern
         Observer.h
         Subject.cpp
         Subject.h
-        main.cpp)
+        main.cpp DataObject.cpp)

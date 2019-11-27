@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Ch_2_Observer_Pattern.dir/DataObject.cpp.o"
   "CMakeFiles/Ch_2_Observer_Pattern.dir/DisplayElement.cpp.o"
   "CMakeFiles/Ch_2_Observer_Pattern.dir/Observer.cpp.o"
   "CMakeFiles/Ch_2_Observer_Pattern.dir/Subject.cpp.o"

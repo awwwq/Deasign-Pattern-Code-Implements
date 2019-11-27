@@ -123,6 +123,33 @@ Ch_2_Observer_Pattern/fast:
 	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/build
 .PHONY : Ch_2_Observer_Pattern/fast
 
+DataObject.o: DataObject.cpp.o
+
+.PHONY : DataObject.o
+
+# target to build an object file
+DataObject.cpp.o:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/DataObject.cpp.o
+.PHONY : DataObject.cpp.o
+
+DataObject.i: DataObject.cpp.i
+
+.PHONY : DataObject.i
+
+# target to preprocess a source file
+DataObject.cpp.i:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/DataObject.cpp.i
+.PHONY : DataObject.cpp.i
+
+DataObject.s: DataObject.cpp.s
+
+.PHONY : DataObject.s
+
+# target to generate assembly for a file
+DataObject.cpp.s:
+	$(MAKE) -f CMakeFiles/Ch_2_Observer_Pattern.dir/build.make CMakeFiles/Ch_2_Observer_Pattern.dir/DataObject.cpp.s
+.PHONY : DataObject.cpp.s
+
 DisplayElement.o: DisplayElement.cpp.o
 
 .PHONY : DisplayElement.o
@@ -240,6 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Ch_2_Observer_Pattern"
+	@echo "... DataObject.o"
+	@echo "... DataObject.i"
+	@echo "... DataObject.s"
 	@echo "... DisplayElement.o"
 	@echo "... DisplayElement.i"
 	@echo "... DisplayElement.s"

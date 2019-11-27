@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DataObject.cpp">
+			<Option target="Ch_2_Observer_Pattern"/>
+		</Unit>
+		<Unit filename="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DataObject.h">
+			<Option target="Ch_2_Observer_Pattern"/>
+		</Unit>
 		<Unit filename="/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.cpp">
 			<Option target="Ch_2_Observer_Pattern"/>
 		</Unit>

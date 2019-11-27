@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DataObject.h
+
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.h
 
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.h
@@ -13,10 +15,14 @@ DisplayElement.h
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DisplayElement.h
 Subject.h
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.h
+DataObject.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DataObject.h
 
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Subject.h
 Observer.h
 /Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/Observer.h
+DataObject.h
+/Volumes/Samsung_T5/learn/Cplus/Ch.2 Observer Pattern/DataObject.h
 vector
 -
 
