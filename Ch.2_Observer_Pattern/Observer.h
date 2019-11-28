@@ -7,7 +7,7 @@ class Observer
 {
     //Observer Interface
 public:
-    virtual void update(Subject *s, DataObject *d) = 0;
+    virtual void update(const Subject *s, const DataObject *d) = 0;
 };
 class CurrentConditionDisplay : public Observer, public DisplayElement
 {
@@ -18,7 +18,7 @@ private:
 
 public:
     CurrentConditionDisplay(Subject *weatherData);
-    void update(Subject *s, DataObject *d);
+    void update(const Subject *s, const DataObject *d);
     void display();
 };
 class HeatIndexDisplay : public Observer, public DisplayElement
@@ -30,7 +30,7 @@ private:
 
 public:
     HeatIndexDisplay(Subject *weatherData);
-    void update(Subject *s, DataObject *d);
+    void update(const Subject *s, const DataObject *d);
     void display();
 };
 class ForecastDisplay : public Observer, public DisplayElement
@@ -42,6 +42,6 @@ private:
 
 public:
     ForecastDisplay(Subject *weatherData);
-    void update(Subject *s, DataObject *d);
+    void update(const Subject *s, const DataObject *d);
     void display();
 };

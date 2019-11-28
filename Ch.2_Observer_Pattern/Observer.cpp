@@ -5,7 +5,7 @@ CurrentConditionDisplay::CurrentConditionDisplay(Subject *weatherData)
     this->weatherData = weatherData;
     weatherData->registerObserver(this);
 }
-void CurrentConditionDisplay::update(Subject *s, DataObject *d)
+void CurrentConditionDisplay::update(const Subject *s, const DataObject *d)
 {
     //Pull Data, do not use the *d, it's null;
     if (typeid(*s).name() == typeid(WeatherData).name())
@@ -27,7 +27,7 @@ HeatIndexDisplay::HeatIndexDisplay(Subject *weatherData)
     this->weatherData = weatherData;
     weatherData->registerObserver(this);
 }
-void HeatIndexDisplay::update(Subject *s, DataObject *d)
+void HeatIndexDisplay::update(const Subject *s, const DataObject *d)
 {
     //Pull Data, do not use the *d, it's null;
     if (typeid(*s) == typeid(WeatherData))
@@ -57,7 +57,7 @@ ForecastDisplay::ForecastDisplay(Subject *weatherData)
     this->weatherData = weatherData;
     weatherData->registerObserver(this);
 }
-void ForecastDisplay::update(Subject *s, DataObject *d)
+void ForecastDisplay::update(const Subject *s, const DataObject *d)
 {
     //Pull Data, do not use the *d, it's null;
     if (typeid(*s) == typeid(WeatherData))
