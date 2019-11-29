@@ -6,7 +6,7 @@ class Condiments : public Beverage
 {
     //Interface of Decorator
 public:
-    virtual std::string getDescription() = 0;
+    std::string getDescription() override = 0;
 };
 class Mocha : public Condiments
 {
@@ -15,8 +15,8 @@ private:
 
 public:
     Mocha(Beverage *beverage);
-    std::string getDescription();
-    double cost();
+    std::string getDescription() override;
+    double cost() override;
 };
 class Soy : public Condiments
 {
@@ -25,8 +25,8 @@ private:
 
 public:
     Soy(Beverage *beverage);
-    std::string getDescription();
-    double cost();
+    std::string getDescription() override;
+    double cost() override;
 };
 class Whip : public Condiments
 {
@@ -35,8 +35,8 @@ private:
 
 public:
     Whip(Beverage *beverage);
-    std::string getDescription();
-    double cost();
+    std::string getDescription() override;
+    double cost() override;
 };
 class SteamedMilk : public Condiments
 {
@@ -45,8 +45,8 @@ private:
 
 public:
     SteamedMilk(Beverage *beverage);
-    std::string getDescription();
-    double cost();
+    std::string getDescription() override;
+    double cost() override;
 };
 
 #endif
