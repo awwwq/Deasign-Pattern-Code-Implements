@@ -17,10 +17,12 @@ void Duck::swim()
 void Duck::setFlyBehavior(FlyBehavior *fb)
 {
     //Dynamicly Change Behavior
+    delete flyBehavior;
     flyBehavior = fb;
 }
 void Duck::setQuackBehavior(QuackBehavior *qb)
 {
+    delete quackBehavior;
     quackBehavior = qb;
 }
 
