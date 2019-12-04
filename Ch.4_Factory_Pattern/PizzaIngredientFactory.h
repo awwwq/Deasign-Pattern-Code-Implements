@@ -1,0 +1,14 @@
+//
+// Created by 许明旺 on 2019/12/4.
+//
+
+#ifndef CH_4_FACTORY_PATTERN_PIZZAINGREDIENTFACTORY_H
+#define CH_4_FACTORY_PATTERN_PIZZAINGREDIENTFACTORY_H
+
+
+class PizzaIngredientFactory {
+
+};
+
+
+#endif //CH_4_FACTORY_PATTERN_PIZZAINGREDIENTFACTORY_H
