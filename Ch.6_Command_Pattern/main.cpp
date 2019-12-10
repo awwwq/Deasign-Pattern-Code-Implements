@@ -12,6 +12,9 @@ int main()
     GarageDoor *garageDoor = new GarageDoor("");
     Hottub *hottub = new Hottub("");
 
+
+
+
     TVOnCommand *tvOn = new TVOnCommand(tv);
     TVOffCommand *tvOff = new TVOffCommand(tv);
     HottubOnCommand *hottubOn = new HottubOnCommand(hottub);
@@ -38,12 +41,14 @@ int main()
     MacroCommand *partyOffMacro = new MacroCommand(partyOff);
 
     rc->setCommand(0, partyOnMacro, partyOffMacro);
+    //    rc->setCommand(0, [livingRoomLight] { livingRoomLight->on(); }, [livingRoomLight]{livingRoomLight->off();})
+    //    rc->setCommand(0, livingRoomLight::on(),livingRoomLight::off());
 
     //    rc->setCommand(0, ceilingFanMedium, ceilingFanOff);
     //    rc->setCommand(1, ceilingFanHigh, ceilingFanOff);
     //    rc->onButtonWasPressed(0);
     //    rc->offButtonWasPressed(0);
-    // std::cout << (*rc) << std::endl;
+    //    std::cout << (*rc) << std::endl;
     //    rc->undoButtonWasPressed();
     //
     //    rc->onButtonWasPressed(1);

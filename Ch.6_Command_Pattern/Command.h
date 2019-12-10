@@ -4,6 +4,7 @@
 class Command
 {
 public:
+    //virtual void operator()() = 0;
     virtual void execute() = 0;
     virtual void undo() = 0;
     virtual std::string getName() = 0;
