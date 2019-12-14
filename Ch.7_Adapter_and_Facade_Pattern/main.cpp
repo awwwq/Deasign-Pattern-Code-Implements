@@ -2,6 +2,7 @@
 
 #include "TurkeyAdapter.h"
 #include "EnumerationIterator.hpp"
+#include "HomeTheaterFacade.h"
 
 void testDuck(Duck *duck)
 {
@@ -25,6 +26,18 @@ void testIterator(_Tp *iterator)
 
 int main()
 {
+    Amplifier *amplifier = new Amplifier();
+    Tuner *tuner = new Tuner(amplifier);
+    DvdPlayer *dvdPlayer = new DvdPlayer(amplifier);
+    CdPlayer *cdPlayer = new CdPlayer(amplifier);
+    Projector *projector = new Projector();
+    Screen *screen = new Screen();
+    TheaterLights *lights = new TheaterLights();
+    PopcornPopper *popper = new PopcornPopper();
+
+    HomeTheaterFacade *homeTheaterFacade = new HomeTheaterFacade(amplifier, tuner, dvdPlayer, cdPlayer, projector, screen, lights, popper);
+    homeTheaterFacade->watchMovie("Raiders of the Lost Ark");
+    homeTheaterFacade->endMovie();
     //    MallardDuck *duck = new MallardDuck();
     //    WildTurkey *turkey = new WildTurkey();
     //    Duck *turkeyAdapter = new TurkeyAdapter(turkey);
@@ -38,8 +51,8 @@ int main()
     //
     //    std::cout<<"\nThe TurkeyAdapter says..."<<std::endl;
     //    testDuck(turkeyAdapter);
-    auto enumeration = new Enumeration<float>;
-    auto enumerationIterator = new EnumerationIterator<float>(enumeration);
-
-    testIterator(enumerationIterator);
+    //    auto enumeration = new Enumeration<float>;
+    //    auto enumerationIterator = new EnumerationIterator<float>(enumeration);
+    //
+    //    testIterator(enumerationIterator);
 }

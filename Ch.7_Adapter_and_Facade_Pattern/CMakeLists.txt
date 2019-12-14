@@ -15,4 +15,4 @@ add_executable(Ch_7_Adapter_and_Facade_Pattern
         Turkey.cpp
         Turkey.h
         TurkeyAdapter.cpp
-        TurkeyAdapter.h)
+        TurkeyAdapter.h TheaterDevice.cpp TheaterDevice.h HomeTheaterFacade.cpp HomeTheaterFacade.h)
